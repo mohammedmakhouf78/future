@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+}
